@@ -15,7 +15,7 @@
 - 🌱 Passionate about **UX/UI** and **responsive design**  
 - 💬 Ask me about **React**, **TailwindCSS**, **Android** or **DevOps**  
 - 📫 How to reach me: [#](#)  
-- 📝 Check out my résumé: [#](#)
+- 📝 Check out my résumé: [https://misael-portafolio.netlify.app](https://misael-portafolio.netlify.app)
 
 ---
 
