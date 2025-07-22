@@ -14,8 +14,8 @@
 - 🔭 I’m currently diving into **Web Development**  
 - 🌱 Passionate about **UX/UI** and **responsive design**  
 - 💬 Ask me about **React**, **TailwindCSS**, **Android** or **DevOps**  
-- 📫 How to reach me: [misael.mejia@example.com](mailto:misael.mejia@example.com)  
-- 📝 Check out my résumé: [read.cv/misaelmejia](https://read.cv/misaelmejia)
+- 📫 How to reach me: [misael.mejia@example.com](#)  
+- 📝 Check out my résumé: [read.cv/misaelmejia](#)
 
 ---
 
@@ -55,22 +55,25 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MisaelMejiaGuerrero&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisaelMejiaGuerrero&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Misael8425&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Stats"
+    width="45%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misael8425&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+    width="45%"
+  />
 </p>
+
 
 ---
 
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/misael-mejía-guerrero-52416819b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:misael.mejia@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
