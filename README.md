@@ -14,8 +14,8 @@
 - 🔭 I’m currently diving into **Web Development**  
 - 🌱 Passionate about **UX/UI** and **responsive design**  
 - 💬 Ask me about **React**, **TailwindCSS**, **Android** or **DevOps**  
-- 📫 How to reach me: [misael.mejia@example.com](#)  
-- 📝 Check out my résumé: [read.cv/misaelmejia](#)
+- 📫 How to reach me: [#](#)  
+- 📝 Check out my résumé: [#](#)
 
 ---
 
