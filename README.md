@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Misael%20Mejia%20Guerrero&fontSize=40&fontColor=ffffff" alt="Header Banner">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Software+Engineering+Student+@+INTEC;Cybersecurity+Certified+·+Fortinet;Building+real-world+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=00B4D8&amp;center=true&amp;width=500&amp;lines=Full+Stack+Developer;Software+Engineering+Student+%40+INTEC;Cybersecurity+Certified+%C2%B7+Fortinet;Building+real-world+projects" alt="Typing SVG" />
   </a>
 </div>
 
@@ -47,9 +47,9 @@ Hello! I am a final-year **Software Engineering student** at INTEC. Currently, I
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :---: | :---: |
-| 🏥 **Clínica Odontológica** | Sistema integral de gestión clínica | JS · HTML · CSS | [View Repo](#) |
-| 🎨 **Piktorica Studio** | Web para marca de branding MIPYMES | JS · HTML · CSS | [View Repo](#) |
-| 🅿️ **Parqueame** | App gestión estacionamientos · Proyecto de Grado | Kotlin · Android | [View Repo](#) |
+| 🏥 **Clínica Odontológica** | Sistema integral de gestión clínica | JS · HTML · CSS | [View Repo](https://github.com/Misael8425/Clinica_Odontologica) |
+| 🎨 **Piktorica Studio** | Web para marca de branding MIPYMES | JS · HTML · CSS | [View Repo](https://github.com/Misael8425/Piktorica) |
+| 🅿️ **Parqueame** | App gestión estacionamientos · Proyecto de Grado | Kotlin · Android | [View Repo](https://github.com/Misael8425/Parqueame) |
 
 </div>
 
@@ -75,11 +75,11 @@ Hello! I am a final-year **Software Engineering student** at INTEC. Currently, I
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Misael8425&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misael8425&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Misael8425&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misael8425&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" width="45%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Misael8425&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Misael8425&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
 </p>
 
 </div>
